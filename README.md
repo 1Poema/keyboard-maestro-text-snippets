@@ -33,3 +33,7 @@ Type :: immediately followed by the desired abbreviation
 ######Left Arrow
 
 ::la → ←
+
+######Infinite
+
+::in → ∞
