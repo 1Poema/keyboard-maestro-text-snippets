@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Gustavo Saiani</string>
+	<key>AuthorURL</key>
+	<string>http://www.poe.ma</string>
+	<key>CanDragToMacroGroup</key>
+	<true/>
+	<key>Category1</key>
+	<string>Text</string>
+	<key>Category2</key>
+	<string></string>
+	<key>Description</key>
+	<string>Easily insert useful unicode characters and small snippets. 
+
+Type :: followed by an abbreviation. 
+
+Examples:
+::ra becomes →
+::sh becomes ¯\_(ツ)_/¯</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>→</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>451069437.53746098</real>
+					<key>Name</key>
+					<string>Right Arrow</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::ra</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>082310E2-3897-47CE-9DE1-B77D87330B24</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Character Macros</string>
+			<key>UID</key>
+			<string>D815A36C-58CC-4684-ABA2-DD8170CBAC3B</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>¯\_(ツ)_/¯</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>451233897.24423897</real>
+					<key>Name</key>
+					<string>Shrug</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::sh</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>45054EE9-3FE8-4CC9-AF58-A3597D91D449</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Character Macros</string>
+			<key>UID</key>
+			<string>D815A36C-58CC-4684-ABA2-DD8170CBAC3B</string>
+		</dict>
+	</array>
+	<key>UID</key>
+	<string>3149D82E-E6BE-48CC-9CB0-685664AFDF9B</string>
+</dict>
+</plist>
