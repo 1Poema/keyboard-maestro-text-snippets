@@ -22,18 +22,22 @@ Type :: immediately followed by the desired abbreviation
 
 ## Full list of shortcuts
 
-######Shrug
+###### Shrug
 
 ::sh → ¯\\_(ツ)_/¯
 
-######Right Arrow
+###### Up Arrow
+
+::ua → ↑
+
+###### Right Arrow
 
 ::ra → →
 
-######Left Arrow
+###### Left Arrow
 
 ::la → ←
 
-######Infinite
+###### Infinite
 
 ::in → ∞
