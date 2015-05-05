@@ -24,20 +24,20 @@ Type :: immediately followed by the desired abbreviation
 
 ###### Shrug
 
-::sh → ¯\\_(ツ)_/¯
+::sh ¯\\_(ツ)_/¯
 
 ###### Up Arrow
 
-::ua → ↑
+::ua ↑
 
 ###### Right Arrow
 
-::ra → →
+::ra →
 
 ###### Left Arrow
 
-::la → ←
+::la ←
 
 ###### Infinite
 
-::in → ∞
+::in ∞
