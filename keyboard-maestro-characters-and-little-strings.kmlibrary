@@ -336,6 +336,152 @@ Examples:
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
+							<string>👎</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>453048397.28832501</real>
+					<key>Name</key>
+					<string>Thumb Down</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::td</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>476AE748-8798-4F8C-8B19-E3007C610051</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>👍</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>453048392.21712899</real>
+					<key>Name</key>
+					<string>Thumb Up</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::tu</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>A5832039-0CBF-4BC4-B76F-82D840BE4D0A</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
 							<string>↑</string>
 						</dict>
 						<dict>
@@ -389,6 +535,6 @@ Examples:
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>4C301079-1AEB-4CAE-A9AF-31F630B19536</string>
+	<string>04E68652-BD04-45D7-850A-378108049D22</string>
 </dict>
 </plist>

@@ -38,6 +38,14 @@ Type :: immediately followed by the desired abbreviation
 
 ::la ←
 
+###### Thumb Up (emoji)
+
+::tu 👍
+
+###### Thumb Down (emoji)
+
+::td 👎
+
 ###### Infinite
 
 ::in ∞
