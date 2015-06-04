@@ -13,15 +13,82 @@
 	<key>Category2</key>
 	<string></string>
 	<key>Description</key>
-	<string>Easily insert useful unicode characters and small snippets. 
-
-Type :: followed by an abbreviation. 
-
-Examples:
-::ra becomes →
-::sh becomes ¯\_(ツ)_/¯</string>
+	<string>Easily insert useful unicode characters and small snippets.</string>
 	<key>Items</key>
 	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>♕</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>455069654.47070098</real>
+					<key>Name</key>
+					<string>Crown</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::cr</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>39ED652F-2408-429D-9601-0D63C6E0BAA8</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
 		<dict>
 			<key>Activate</key>
 			<string>Normal</string>
@@ -535,6 +602,6 @@ Examples:
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>04E68652-BD04-45D7-850A-378108049D22</string>
+	<string>5E25F953-E999-4D02-B8AE-76C6E93DB628</string>
 </dict>
 </plist>

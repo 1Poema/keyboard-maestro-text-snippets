@@ -49,3 +49,7 @@ Type :: immediately followed by the desired abbreviation
 ###### Infinite
 
 ::in ∞
+
+###### Crown
+
+::cr ♕
