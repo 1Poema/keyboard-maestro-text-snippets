@@ -34,6 +34,10 @@ Type :: immediately followed by the desired abbreviation
 
 ::ra →
 
+###### Down Arrow
+
+::da ↓
+
 ###### Left Arrow
 
 ::la ←
