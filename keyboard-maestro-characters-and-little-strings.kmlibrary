@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Gustavo Saiani</string>
 	<key>AuthorURL</key>
-	<string>http://poe.ma</string>
+	<string>www.poe.ma</string>
 	<key>CanDragToMacroGroup</key>
 	<true/>
 	<key>Category1</key>
@@ -13,11 +13,191 @@
 	<key>Category2</key>
 	<string></string>
 	<key>Description</key>
-	<string>Easily insert useful unicode characters and small snippets.
-
-</string>
+	<string>Easily insert useful unicode characters and small snippets.</string>
 	<key>Items</key>
 	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>☐</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>0.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>474582611.85673797</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>474582618.78406203</real>
+					<key>Name</key>
+					<string>Ballot Box</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::ba</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>9D541544-A40D-46E5-991C-6C4C5B30388C</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>☑</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>0.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>474582650.02463198</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>474582678.07049501</real>
+					<key>Name</key>
+					<string>Ballot Box with Check</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::bc</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>3D79E1E5-FD00-43C7-B065-2EAD1404EB2C</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
 		<dict>
 			<key>Activate</key>
 			<string>Normal</string>
@@ -1028,6 +1208,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>69E91CDF-0988-4183-BAB2-C672604D8FB4</string>
+	<string>62737E9E-908E-4650-BCDA-6646134BCD0D</string>
 </dict>
 </plist>

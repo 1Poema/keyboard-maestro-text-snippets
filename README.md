@@ -57,3 +57,11 @@ Type :: immediately followed by the desired abbreviation
 ###### Crown
 
 ::cr ♕
+
+###### Ballot Box
+
+::ba ☐
+
+###### Ballot Box Checked
+
+::bc ☑
