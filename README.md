@@ -65,3 +65,25 @@ Type :: immediately followed by the desired abbreviation
 ###### Ballot Box Checked
 
 ::bc ☑
+
+#### Greek letters
+
+###### Alpha
+
+::al α
+
+###### Beta
+
+::be β
+
+###### Gamma
+
+::ga γ
+
+###### Theta
+
+::th θ
+
+###### Phi
+
+::ph φ

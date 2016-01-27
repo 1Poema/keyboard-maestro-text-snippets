@@ -2,19 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Author</key>
-	<string>Gustavo Saiani</string>
-	<key>AuthorURL</key>
-	<string>www.poe.ma</string>
-	<key>CanDragToMacroGroup</key>
-	<true/>
-	<key>Category1</key>
-	<string>Interface Control</string>
-	<key>Category2</key>
-	<string></string>
-	<key>Description</key>
-	<string>Easily insert useful unicode characters and small snippets.</string>
-	<key>Items</key>
+  <key>Author</key>
+  <string>Gustavo Saiani</string>
+  <key>AuthorURL</key>
+  <string>www.poe.ma</string>
+  <key>CanDragToMacroGroup</key>
+  <true/>
+  <key>Category1</key>
+  <string>Interface Control</string>
+  <key>Category2</key>
+  <string></string>
+  <key>Description</key>
+  <string>Easily insert useful unicode characters and small snippets.</string>
+  <key>Items</key>
 	<array>
 		<dict>
 			<key>Activate</key>
@@ -40,7 +40,7 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
-							<string>☐</string>
+							<string>½</string>
 						</dict>
 						<dict>
 							<key>IsActive</key>
@@ -54,31 +54,19 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
-						<dict>
-							<key>IsActive</key>
-							<true/>
-							<key>IsDisclosed</key>
-							<true/>
-							<key>MacroActionType</key>
-							<string>Pause</string>
-							<key>Time</key>
-							<string>0.1</string>
-							<key>TimeOutAbortsMacro</key>
-							<true/>
-						</dict>
 					</array>
 					<key>CreationDate</key>
-					<real>474582611.85673797</real>
+					<real>459796354.72924602</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>474582618.78406203</real>
+					<real>459796367.29498303</real>
 					<key>Name</key>
-					<string>Ballot Box</string>
+					<string>One Half</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -93,11 +81,11 @@
 							<key>SimulateDeletes</key>
 							<true/>
 							<key>TypedString</key>
-							<string>::ba</string>
+							<string>::12</string>
 						</dict>
 					</array>
 					<key>UID</key>
-					<string>9D541544-A40D-46E5-991C-6C4C5B30388C</string>
+					<string>FAB4F649-6EF9-411E-A7C1-C8353E7133B9</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -131,7 +119,7 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
-							<string>☑</string>
+							<string>α</string>
 						</dict>
 						<dict>
 							<key>IsActive</key>
@@ -145,31 +133,19 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
-						<dict>
-							<key>IsActive</key>
-							<true/>
-							<key>IsDisclosed</key>
-							<true/>
-							<key>MacroActionType</key>
-							<string>Pause</string>
-							<key>Time</key>
-							<string>0.1</string>
-							<key>TimeOutAbortsMacro</key>
-							<true/>
-						</dict>
 					</array>
 					<key>CreationDate</key>
-					<real>474582650.02463198</real>
+					<real>475548345.93497801</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>474582678.07049501</real>
+					<real>475416647.90987599</real>
 					<key>Name</key>
-					<string>Ballot Box with Check</string>
+					<string>Alpha</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -184,11 +160,90 @@
 							<key>SimulateDeletes</key>
 							<true/>
 							<key>TypedString</key>
-							<string>::bc</string>
+							<string>::al</string>
 						</dict>
 					</array>
 					<key>UID</key>
-					<string>3D79E1E5-FD00-43C7-B065-2EAD1404EB2C</string>
+					<string>7D460889-C788-4C4D-A592-B4993ADA6FE2</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>β</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>475548345.93497801</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>475416652.08586103</real>
+					<key>Name</key>
+					<string>Beta</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::be</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>31E85B03-14DC-4070-AE8E-EE8CE6F1BD9B</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -236,7 +291,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -315,7 +370,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -406,7 +461,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -483,6 +538,85 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
+							<string>γ</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>475548345.93497801</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>475416655.61346197</real>
+					<key>Name</key>
+					<string>Gamma</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::ga</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>CC012222-982F-4D14-A0E7-86CD1929D252</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
 							<string>∞</string>
 						</dict>
 						<dict>
@@ -497,7 +631,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -576,7 +710,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -641,7 +775,7 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
-							<string>×</string>
+							<string>φ</string>
 						</dict>
 						<dict>
 							<key>IsActive</key>
@@ -655,19 +789,19 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
 					</array>
 					<key>CreationDate</key>
-					<real>460337247.75138903</real>
+					<real>475548345.93497801</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>460337282.20392501</real>
+					<real>475416753.37343699</real>
 					<key>Name</key>
-					<string>Multiplication</string>
+					<string>Phi</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -682,11 +816,11 @@
 							<key>SimulateDeletes</key>
 							<true/>
 							<key>TypedString</key>
-							<string>::ti</string>
+							<string>::ph</string>
 						</dict>
 					</array>
 					<key>UID</key>
-					<string>BDFF2AFF-FB43-433F-9DED-E3D43447C0F2</string>
+					<string>E074EA3E-F61A-4889-9DDD-95AE15A84207</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -720,7 +854,7 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
-							<string>½</string>
+							<string>π</string>
 						</dict>
 						<dict>
 							<key>IsActive</key>
@@ -734,19 +868,19 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
 					</array>
 					<key>CreationDate</key>
-					<real>459796354.72924602</real>
+					<real>475548345.93497801</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>459796367.29498303</real>
+					<real>475416786.46046197</real>
 					<key>Name</key>
-					<string>One Half</string>
+					<string>Pi</string>
 					<key>Triggers</key>
 					<array>
 						<dict>
@@ -761,11 +895,11 @@
 							<key>SimulateDeletes</key>
 							<true/>
 							<key>TypedString</key>
-							<string>::12</string>
+							<string>::pi</string>
 						</dict>
 					</array>
 					<key>UID</key>
-					<string>FAB4F649-6EF9-411E-A7C1-C8353E7133B9</string>
+					<string>41905950-3C7A-4B1E-9272-700893C7A29F</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -825,7 +959,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -916,7 +1050,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -995,7 +1129,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -1060,6 +1194,164 @@
 							<key>Paste</key>
 							<true/>
 							<key>Text</key>
+							<string>θ</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>475548345.93497801</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>475416702.64053798</real>
+					<key>Name</key>
+					<string>Theta</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::th</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>3E972EE2-1F09-4A7D-AA66-D6E05364A5E3</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
+							<string>×</string>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>SetClipboardToPastClipboard</string>
+							<key>PastExpression</key>
+							<string>1</string>
+							<key>TargetNamedClipboardRedundantDisplayName</key>
+							<string>Default Clipboard</string>
+							<key>TargetNamedClipboardUID</key>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
+							<key>TargetUseNamedClipboard</key>
+							<false/>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>460337247.75138903</real>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>460337282.20392501</real>
+					<key>Name</key>
+					<string>Multiplication</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>Case</key>
+							<string>Exact</string>
+							<key>DiacriticalsMatter</key>
+							<true/>
+							<key>MacroTriggerType</key>
+							<string>TypedString</string>
+							<key>OnlyAfterWordBreak</key>
+							<false/>
+							<key>SimulateDeletes</key>
+							<true/>
+							<key>TypedString</key>
+							<string>::ti</string>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>BDFF2AFF-FB43-433F-9DED-E3D43447C0F2</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Characters and snippets</string>
+			<key>ToggleMacroUID</key>
+			<string>5DF07ADE-9ED0-421B-B4FD-8A78FB1EEBB3</string>
+			<key>UID</key>
+			<string>4FD362AD-D5CE-4D20-9558-C75299AA2EDE</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>459424461.46076101</real>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByPasting</string>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>Paste</key>
+							<true/>
+							<key>Text</key>
 							<string>👍</string>
 						</dict>
 						<dict>
@@ -1074,7 +1366,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -1165,7 +1457,7 @@
 							<key>TargetNamedClipboardRedundantDisplayName</key>
 							<string>Default Clipboard</string>
 							<key>TargetNamedClipboardUID</key>
-							<string>42DAAE0E-BC68-48FA-B86A-2445E5D1033A</string>
+							<string>961FA99E-25E0-4FBC-9A0A-BE998B70D71D</string>
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
@@ -1208,6 +1500,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>62737E9E-908E-4650-BCDA-6646134BCD0D</string>
+	<string>E1FA4D6D-419E-4486-88F7-EC1FCB77ECB1</string>
 </dict>
 </plist>
