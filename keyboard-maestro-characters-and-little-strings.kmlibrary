@@ -48,6 +48,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -64,7 +76,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>459796367.29498303</real>
+					<real>475601754.65992397</real>
 					<key>Name</key>
 					<string>One Half</string>
 					<key>Triggers</key>
@@ -127,6 +139,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -143,7 +167,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416647.90987599</real>
+					<real>475601757.20140499</real>
 					<key>Name</key>
 					<string>Alpha</string>
 					<key>Triggers</key>
@@ -206,6 +230,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -222,7 +258,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416652.08586103</real>
+					<real>475601759.66617</real>
 					<key>Name</key>
 					<string>Beta</string>
 					<key>Triggers</key>
@@ -285,6 +321,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -301,7 +349,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>455069654.47070098</real>
+					<real>475601762.27357602</real>
 					<key>Name</key>
 					<string>Crown</string>
 					<key>Triggers</key>
@@ -364,6 +412,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>0.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -374,25 +434,13 @@
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
-						<dict>
-							<key>IsActive</key>
-							<true/>
-							<key>IsDisclosed</key>
-							<true/>
-							<key>MacroActionType</key>
-							<string>Pause</string>
-							<key>Time</key>
-							<string>0.1</string>
-							<key>TimeOutAbortsMacro</key>
-							<true/>
-						</dict>
 					</array>
 					<key>CreationDate</key>
 					<real>470232457.28462601</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>470232497.80987799</real>
+					<real>475601766.80746698</real>
 					<key>Name</key>
 					<string>Down Arrow</string>
 					<key>Triggers</key>
@@ -455,6 +503,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>0.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -465,25 +525,13 @@
 							<key>TargetUseNamedClipboard</key>
 							<false/>
 						</dict>
-						<dict>
-							<key>IsActive</key>
-							<true/>
-							<key>IsDisclosed</key>
-							<true/>
-							<key>MacroActionType</key>
-							<string>Pause</string>
-							<key>Time</key>
-							<string>0.1</string>
-							<key>TimeOutAbortsMacro</key>
-							<true/>
-						</dict>
 					</array>
 					<key>CreationDate</key>
 					<real>463846735.25036198</real>
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>463846824.19375402</real>
+					<real>475601770.13959002</real>
 					<key>Name</key>
 					<string>Face Palm</string>
 					<key>Triggers</key>
@@ -546,6 +594,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -562,7 +622,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416655.61346197</real>
+					<real>475601772.76453602</real>
 					<key>Name</key>
 					<string>Gamma</string>
 					<key>Triggers</key>
@@ -625,6 +685,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -641,7 +713,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>451270101.039397</real>
+					<real>475601779.75864297</real>
 					<key>Name</key>
 					<string>Infinite</string>
 					<key>Triggers</key>
@@ -704,6 +776,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -720,7 +804,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>451267878.88959002</real>
+					<real>475601783.16183501</real>
 					<key>Name</key>
 					<string>Left Arrow</string>
 					<key>Triggers</key>
@@ -783,6 +867,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -799,7 +895,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416753.37343699</real>
+					<real>475601785.22339398</real>
 					<key>Name</key>
 					<string>Phi</string>
 					<key>Triggers</key>
@@ -862,6 +958,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -878,7 +986,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416786.46046197</real>
+					<real>475601787.01362401</real>
 					<key>Name</key>
 					<string>Pi</string>
 					<key>Triggers</key>
@@ -1123,6 +1231,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -1139,7 +1259,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>453048397.28832501</real>
+					<real>475601791.374587</real>
 					<key>Name</key>
 					<string>Thumb Down</string>
 					<key>Triggers</key>
@@ -1202,6 +1322,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -1218,7 +1350,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>475416702.64053798</real>
+					<real>475601793.31804597</real>
 					<key>Name</key>
 					<string>Theta</string>
 					<key>Triggers</key>
@@ -1281,6 +1413,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -1297,7 +1441,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>460337282.20392501</real>
+					<real>475601795.24156702</real>
 					<key>Name</key>
 					<string>Multiplication</string>
 					<key>Triggers</key>
@@ -1360,6 +1504,18 @@
 							<key>IsDisclosed</key>
 							<true/>
 							<key>MacroActionType</key>
+							<string>Pause</string>
+							<key>Time</key>
+							<string>.1</string>
+							<key>TimeOutAbortsMacro</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>MacroActionType</key>
 							<string>SetClipboardToPastClipboard</string>
 							<key>PastExpression</key>
 							<string>1</string>
@@ -1376,7 +1532,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>453048392.21712899</real>
+					<real>475601797.33286399</real>
 					<key>Name</key>
 					<string>Thumb Up</string>
 					<key>Triggers</key>
@@ -1441,7 +1597,7 @@
 							<key>MacroActionType</key>
 							<string>Pause</string>
 							<key>Time</key>
-							<string>0.1</string>
+							<string>.1</string>
 							<key>TimeOutAbortsMacro</key>
 							<true/>
 						</dict>
@@ -1467,7 +1623,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>463846783.402789</real>
+					<real>475601806.866207</real>
 					<key>Name</key>
 					<string>Up Arrow</string>
 					<key>Triggers</key>
@@ -1500,6 +1656,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>E1FA4D6D-419E-4486-88F7-EC1FCB77ECB1</string>
+	<string>D89ED93E-8B2A-4DF0-A82A-0AE21F461B84</string>
 </dict>
 </plist>
