@@ -26,6 +26,10 @@ Type :: immediately followed by the desired abbreviation
 
 ::sh ¯\\_(ツ)_/¯
 
+###### Face palm
+
+::fp (－‸ლ)
+
 ###### Up Arrow
 
 ::ua ↑
@@ -65,6 +69,10 @@ Type :: immediately followed by the desired abbreviation
 ###### Ballot Box Checked
 
 ::bc ☑
+
+###### Multiplication
+
+::ti ×
 
 #### Greek letters
 
